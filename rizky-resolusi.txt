@@ -2,5 +2,5 @@ RIZKY RESOLUSI
 - Konsisten untuk belajar web programming
 - Belajar GIT dan GITHUB
 - Belajar Javascript
-- Belajar Laravel
+- Belajar Laravell
 - Membuat Web dengan Laravel
